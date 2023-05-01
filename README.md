@@ -1,1 +1,1 @@
-# vision_performer
+# Vision Performer v.s. Vision Transformer
