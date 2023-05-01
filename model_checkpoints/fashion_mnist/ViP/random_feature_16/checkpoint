@@ -1,0 +1,2 @@
+model_checkpoint_path: "L_1024"
+all_model_checkpoint_paths: "L_1024"
